@@ -65,7 +65,7 @@ const CompanyContactList = [
         mobileNumber: undefined,
         email: 'impressum.de@ryanair.com'
     }
-]
+];
 
 (function() {
     'use strict';
