@@ -87,5 +87,16 @@
     "street": "Airside Business Park",
     "place": "Swords Co. Dublin",
     "email": "impressum.de@ryanair.com"
+  },
+  {
+    "key": "aldi",
+    "type": "shopping",
+    "name": "Aldi Süd",
+    "street": "Touluserstraße",
+    "houseNumber": "25",
+    "postalCode": "402011",
+    "place": "Düsseldorf",
+    "phoneNumber": "+49 211 53676293",
+    "email": "mail@aldi-onlineshop.de"
   }
 ]
