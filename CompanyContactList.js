@@ -66,3 +66,9 @@ const CompanyContactList = [
         email: 'impressum.de@ryanair.com'
     }
 ]
+
+(function() {
+    'use strict';
+    if(!window) return;
+    window.CompanyContactList = CompanyContactList;
+})();
