@@ -54,6 +54,7 @@
   {
     "key": "klarna",
     "type": "bank",
+    "web": "klarna.de",
     "name": "Klarna Bank AB (publ)",
     "street": "Chausseestrasse",
     "houseNumber": "117",
@@ -65,6 +66,7 @@
   {
     "key": "dkb",
     "type": "bank",
+    "web": "dkb.de",
     "name": "Deutsche Kreditbank AG",
     "postalCode": "10919",
     "place": "Berlin",
@@ -73,6 +75,7 @@
   {
     "key": "commerzbank",
     "type": "bank",
+    "web": "commerzbank.com",
     "name": "Commerzbank Aktiengesellschaft",
     "street": "Kaiserplatz",
     "postalCode": "60311",
@@ -83,6 +86,7 @@
   {
     "key": "ryanair",
     "type": "airline",
+    "web": "ryanair.com",
     "name": "Ryanair DAC.",
     "street": "Airside Business Park",
     "place": "Swords Co. Dublin",
@@ -91,6 +95,7 @@
   {
     "key": "aldi",
     "type": "shopping",
+    "web": "aldi-sued.de",
     "name": "Aldi Süd",
     "street": "Touluserstraße",
     "houseNumber": "25",
@@ -102,6 +107,7 @@
   {
     "key": "ahtrading",
     "type": "shopping",
+    "web": "gartenmoebel.de",
     "name": "AH-Trading GmbH",
     "street": "Lüttinger Straße",
     "houseNumber": "25",
@@ -113,6 +119,7 @@
   {
     "key": "exxpozed",
     "type": "shopping",
+    "web": "exxpozed.com",
     "name": "Andreas Oliver Bindhammer e.K.",
     "street": "Baumeisterstraße",
     "houseNumber": "3",
