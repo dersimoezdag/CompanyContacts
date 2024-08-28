@@ -27,6 +27,15 @@
     "email": "reiseportal@bahn.de"
   },
   {
+    "key": "avantpark",
+    "name": "Parking Solutions Deutschland GmbH",
+    "street": "Münchner Straße",
+    "houseNumber": "24",
+    "postalCode": "85774",
+    "place": "Unterföhring",
+    "email": "info@avantpark.de"
+  },
+  {
     "key": "dkb",
     "name": "Deutsche Kreditbank AG",
     "postalCode": "10919",
