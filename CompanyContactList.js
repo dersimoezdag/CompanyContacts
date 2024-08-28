@@ -66,5 +66,3 @@ const CompanyContactList = [
         email: 'impressum.de@ryanair.com'
     }
 ]
-
-export default CompanyContactList
