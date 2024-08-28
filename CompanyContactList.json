@@ -98,5 +98,27 @@
     "place": "Düsseldorf",
     "phoneNumber": "+49 211 53676293",
     "email": "mail@aldi-onlineshop.de"
+  },
+  {
+    "key": "ahtrading",
+    "type": "shopping",
+    "name": "AH-Trading GmbH",
+    "street": "Lüttinger Straße",
+    "houseNumber": "25",
+    "postalCode": "46509",
+    "place": "Xanten",
+    "phoneNumber": "+49 2801 3713111",
+    "email": "service@gartenmoebel.de"
+  },
+  {
+    "key": "exxpozed",
+    "type": "shopping",
+    "name": "Andreas Oliver Bindhammer e.K.",
+    "street": "Baumeisterstraße",
+    "houseNumber": "3",
+    "postalCode": "87463",
+    "place": "Dietmannsried",
+    "phoneNumber": "+49 831 93062470",
+    "email": "info@exxpozed.com"
   }
 ]
