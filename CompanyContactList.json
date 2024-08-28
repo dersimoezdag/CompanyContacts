@@ -41,6 +41,17 @@
     "email": "info@avantpark.de"
   },
   {
+    "key": "senec",
+    "type": "other",
+    "name": "SENEC GmbH",
+    "street": "Wittenberger Straße",
+    "houseNumber": "15",
+    "postalCode": "04129",
+    "place": "Leipzig",
+    "phoneNumber": "",
+    "email": "info@senec.com"
+  },
+  {
     "key": "klarna",
     "type": "bank",
     "name": "Klarna Bank AB (publ)",
