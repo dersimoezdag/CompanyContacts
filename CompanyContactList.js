@@ -1,4 +1,4 @@
-[
+const CompanyContactList = [
     {
         key: '1und1',
         name: '1&1 AG',
@@ -66,3 +66,5 @@
         email: 'impressum.de@ryanair.com'
     }
 ]
+
+export default CompanyContactList
