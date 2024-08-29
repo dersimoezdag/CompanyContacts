@@ -203,5 +203,17 @@
     "place": "Stuttgart",
     "phoneNumber": "",
     "email": "dialog.mb@mercedes-benz.com"
+  },
+  {
+    "key": "samsung",
+    "type": "shopping",
+    "web": "samsung.com",
+    "name": "Samsung Electronics GmbH",
+    "street": "Am Kronberger Hang",
+    "houseNumber": "6",
+    "postalCode": "65824",
+    "place": "Schwalbach / Ts. ",
+    "phoneNumber": "+49 6196 77 555 77",
+    "email": "shop-retoure@email.support.samsung.com"
   }
 ]
