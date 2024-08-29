@@ -10,6 +10,16 @@
     "email": "1und1service@1und1.de"
   },
   {
+    "key": "ionos",
+    "type": "other",
+    "name": "IONOS SE",
+    "street": "Elgendorfer Str.",
+    "houseNumber": "57",
+    "postalCode": "56410",
+    "place": "Montabaur",
+    "email": "brief@ionos.de"
+  },
+  {
     "key": "1ntelecom",
     "type": "telecommunication",
     "name": "1N Telecom GmbH",
