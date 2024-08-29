@@ -191,5 +191,17 @@
     "place": "Horhausen",
     "phoneNumber": "+49 2687 48799900",
     "email": "info@service-rundfunkbeitrag.de"
+  },
+  {
+    "key": "mercedes",
+    "type": "cars",
+    "web": "mercedes-benz.com",
+    "name": "Mercedes-Benz AG",
+    "street": "Mercedesstraße",
+    "houseNumber": "120",
+    "postalCode": "70372",
+    "place": "Stuttgart",
+    "phoneNumber": "",
+    "email": "dialog.mb@mercedes-benz.com"
   }
 ]
