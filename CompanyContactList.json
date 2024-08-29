@@ -54,6 +54,18 @@
     "email": "info@avantpark.de"
   },
   {
+    "key": "mopla",
+    "type": "other",
+    "web": "mopla.solutions",
+    "name": "MoPla Solutions GmbH",
+    "street": "Alte Landstraße",
+    "houseNumber": "7",
+    "postalCode": "86502",
+    "place": "Laugna",
+    "phoneNumber": "+49 821 6508 4275",
+    "email": "info@mopla.solutions"
+  },
+  {
     "key": "senec",
     "type": "other",
     "name": "SENEC GmbH",
