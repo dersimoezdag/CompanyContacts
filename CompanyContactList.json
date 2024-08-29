@@ -167,5 +167,17 @@
     "place": "Köln",
     "phoneNumber": "+49 800 3203205",
     "email": "service@axa.de"
+  },
+  {
+    "key": "gez",
+    "type": "authority",
+    "web": "rundfunkbeitrag.de",
+    "name": "ARD ZDF Deutschlandradio Beitragsservice",
+    "street": "Freimersdorfer Weg",
+    "houseNumber": "6",
+    "postalCode": "50829",
+    "place": "Köln",
+    "phoneNumber": "+49 221 5061 0",
+    "email": "impressum@rundfunkbeitrag.de"
   }
 ]
