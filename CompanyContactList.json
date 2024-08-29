@@ -155,5 +155,17 @@
     "place": "Dietmannsried",
     "phoneNumber": "+49 831 93062470",
     "email": "info@exxpozed.com"
+  },
+  {
+    "key": "axa",
+    "type": "insurance",
+    "web": "axa.de",
+    "name": "AXA Versicherung AG",
+    "street": "Colonia-Allee",
+    "houseNumber": "10-20",
+    "postalCode": "51067",
+    "place": "Köln",
+    "phoneNumber": "+49 800 3203205",
+    "email": "service@axa.de"
   }
 ]
