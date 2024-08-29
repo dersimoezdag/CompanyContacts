@@ -21,7 +21,7 @@
   },
   {
     "key": "1ntelecom",
-    "type": "telecommunication",
+    "type": "scam",
     "name": "1N Telecom GmbH",
     "street": "Prinzenallee",
     "houseNumber": "7",
@@ -179,5 +179,17 @@
     "place": "Köln",
     "phoneNumber": "+49 221 5061 0",
     "email": "impressum@rundfunkbeitrag.de"
+  },
+  {
+    "key": "fakegez",
+    "type": "scam",
+    "web": "service-rundfunkbeitrag.de",
+    "name": "SSS-Software Special Service GmbH",
+    "street": "Amselweg",
+    "houseNumber": "40",
+    "postalCode": "56593",
+    "place": "Horhausen",
+    "phoneNumber": "+49 2687 48799900",
+    "email": "info@service-rundfunkbeitrag.de"
   }
 ]
