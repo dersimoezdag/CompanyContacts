@@ -140,6 +140,17 @@
     "email": "impressum.de@ryanair.com"
   },
   {
+    "key": "anextour",
+    "type": "travel-agency",
+    "web": "anextour.de",
+    "name": "ANEX Tour GmbH",
+    "street": "Gladbecker Straße",
+    "houseNumber": "1-3",
+    "postalCode": "40472",
+    "place": "Düsseldorf",
+    "email": "service@anextour.de"
+  },
+  {
     "key": "aldi",
     "type": "shopping",
     "web": "aldi-sued.de",
