@@ -238,6 +238,16 @@
     "email": "dialog.mb@mercedes-benz.com"
   },
   {
+    "key": "skodaleasing",
+    "type": "cars",
+    "name": "ŠKODA Leasing, Volkswagen Leasing GmbH",
+    "postalCode": "38094",
+    "place": "Braunschweig",
+    "phoneNumber": "+49 531 212 86335",
+    "faxNumber": "+49 800 8207590",
+    "email": "leasing-bestand@vwfs.com"
+  },
+  {
     "key": "samsung",
     "type": "shopping",
     "web": "samsung.com",
