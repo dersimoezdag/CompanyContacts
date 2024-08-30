@@ -283,5 +283,18 @@
     "place": "Stockelsdorf",
     "phoneNumber": "",
     "email": "info@pvz.de"
+  },
+  {
+    "key": "instagram",
+    "type": "social-media",
+    "web": "instagram.com",
+    "name": "Meta Platforms Ireland Limited",
+    "street": "Merrion Road",
+    "houseNumber": "4",
+    "postalCode": "23617",
+    "place": "Dublin",
+    "country": "Ireland",
+    "phoneNumber": "",
+    "email": "impressum@support.instagram.com"
   }
 ]
