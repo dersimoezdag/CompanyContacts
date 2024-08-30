@@ -10,6 +10,28 @@
     "email": "1und1service@1und1.de"
   },
   {
+    "key": "vodafone",
+    "type": "telecommunication",
+    "name": "Vodafone GmbH",
+    "street": "Ferdinand-Braun-Platz",
+    "houseNumber": "1",
+    "postalCode": "40549",
+    "place": "Düsseldorf",
+    "phoneNumber": "+49 800 172 1212",
+    "email": "impressum@vodafone.com"
+  },
+  {
+    "key": "vodafonede",
+    "type": "telecommunication",
+    "name": "Vodafone Deutschland GmbH",
+    "street": "Betastraße",
+    "houseNumber": "6-8",
+    "postalCode": "85774",
+    "place": "Unterföhring",
+    "phoneNumber": "+49 800 172 1212",
+    "email": "kabel-impressum@vodafone.com"
+  },
+  {
     "key": "ionos",
     "type": "other",
     "name": "IONOS SE",
