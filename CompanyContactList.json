@@ -215,5 +215,18 @@
     "place": "Schwalbach / Ts. ",
     "phoneNumber": "+49 6196 77 555 77",
     "email": "shop-retoure@email.support.samsung.com"
+  },
+  {
+    "key": "debitor",
+    "type": "debt-collection",
+    "web": "debitor.de",
+    "name": "Debitor Inkasso GmbH",
+    "street": "Markttwiete",
+    "houseNumber": "2",
+    "postalCode": "23611",
+    "place": "Bad Schwartau",
+    "phoneNumber": "+49 451 2009 399",
+    "faxNumber": "+49 451 2009 300",
+    "email": "pvz@debitor.de"
   }
 ]
