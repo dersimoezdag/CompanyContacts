@@ -227,6 +227,19 @@
     "email": "service@axa.de"
   },
   {
+    "key": "lv1871",
+    "type": "insurance",
+    "web": "lv1871.de",
+    "name": "Lebensversicherung von 1871 a. G. München",
+    "street": "Maximiliansplatz",
+    "houseNumber": "5",
+    "postalCode": "80333",
+    "place": "München",
+    "phoneNumber": "+49 89 551 67 1871",
+    "faxNumber": "+49 89 551 67 1212",
+    "email": "info@lv1871.de"
+  },
+  {
     "key": "gez",
     "type": "authority",
     "web": "rundfunkbeitrag.de",
