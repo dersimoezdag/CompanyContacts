@@ -10,6 +10,30 @@
     "email": "1und1service@1und1.de"
   },
   {
+    "key": "congstar",
+    "type": "telecommunication",
+    "name": "congstar Kundenservice",
+    "altNames": [],
+    "street": "Postfach",
+    "houseNumber": "1165",
+    "postalCode": "61466",
+    "place": "Kronberg",
+    "phoneNumber": "+49 221 79 700 700",
+    "email": "impressum@congstar.de"
+  },  
+  {
+    "key": "yourfone",
+    "type": "telecommunication",
+    "name": "Drillisch Online GmbH",
+    "altNames": ["Yourfone"],
+    "street": "Wilhelm-Röntgen-Straße",
+    "houseNumber": "1-5",
+    "postalCode": "63477",
+    "place": "Maintal",
+    "phoneNumber": "+49 6181 7074 083",
+    "email": "kontakt@yourfone.de"
+  },
+  {
     "key": "vodafone",
     "type": "telecommunication",
     "name": "Vodafone GmbH",
