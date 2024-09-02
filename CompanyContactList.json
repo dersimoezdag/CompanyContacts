@@ -334,5 +334,17 @@
     "place": "Köln",
     "phoneNumber": "",
     "email": "schaden@fleetpool.de"
+  },
+  {
+    "key": "vwinsurance",
+    "type": "insurance",
+    "web": "vwav.com",
+    "name": "Volkswagen Autoversicherung AG",
+    "street": "Gifhorner Straße",
+    "houseNumber": "57",
+    "postalCode": "38112",
+    "place": "Braunschweig",
+    "phoneNumber": "+49 531 39397430",
+    "email": "info@vwav.com"
   }
 ]
