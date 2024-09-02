@@ -359,5 +359,16 @@
     "place": "Braunschweig",
     "phoneNumber": "+49 531 39397430",
     "email": "info@vwav.com"
+  },
+   {
+    "key": "amazon",
+    "type": "shopping",   
+    "web": "amazon.de",
+    "name": "Amazon EU S.à r.l.",
+    "street": "avenue John F. Kennedy",
+    "houseNumber": "38",
+    "postalCode": "1855",
+     "country":"Luxemburg",
+    "email": "impressum@amazon.de"
   }
 ]
