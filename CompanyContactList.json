@@ -322,5 +322,17 @@
     "country": "Ireland",
     "phoneNumber": "",
     "email": "impressum@support.instagram.com"
+  },
+  {
+    "key": "fleetpool",
+    "type": "cars",
+    "web": "fleetpool.de",
+    "name": "Fleetpool GmbH",
+    "street": "Schanzenstraße",
+    "houseNumber": "41d",
+    "postalCode": "51063",
+    "place": "Köln",
+    "phoneNumber": "",
+    "email": "schaden@fleetpool.de"
   }
 ]
