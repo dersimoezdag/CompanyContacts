@@ -368,7 +368,7 @@
     "street": "avenue John F. Kennedy",
     "houseNumber": "38",
     "postalCode": "1855",
-     "country":"Luxemburg",
+    "country":"Luxemburg",
     "email": "impressum@amazon.de"
   },
   {
@@ -379,7 +379,19 @@
     "street": "Albert-Einstein-Ring",
     "houseNumber": "2-6",
     "postalCode": "14532",
-     "country":"Kleinmachnow",
+    "place":"Kleinmachnow",
     "email": "impressum@ebay.de"
+  },
+  {
+    "key": "zalando",
+    "type": "shopping",   
+    "web": "zalando.de",
+    "name": "Zalando SE",
+    "street": "Valeska-Gert-Straße",
+    "houseNumber": "5",
+    "postalCode": "10243",
+    "place":"Berlin",
+    "faxNumber": "+49 30 2759 46 93",
+    "email": "impressum@zalando.de"
   }
 ]
