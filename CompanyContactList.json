@@ -360,7 +360,7 @@
     "phoneNumber": "+49 531 39397430",
     "email": "info@vwav.com"
   },
-   {
+  {
     "key": "amazon",
     "type": "shopping",   
     "web": "amazon.de",
@@ -370,5 +370,16 @@
     "postalCode": "1855",
      "country":"Luxemburg",
     "email": "impressum@amazon.de"
+  },
+  {
+    "key": "ebay",
+    "type": "shopping",   
+    "web": "ebay.de",
+    "name": "eBay GmbH",
+    "street": "Albert-Einstein-Ring",
+    "houseNumber": "2-6",
+    "postalCode": "14532",
+     "country":"Kleinmachnow",
+    "email": "impressum@ebay.de"
   }
 ]
