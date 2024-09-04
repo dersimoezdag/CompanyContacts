@@ -434,5 +434,18 @@
     "country":"Germany",
     "faxNumber": "+49 30 81097004",
     "email": "impressum@kleinanzeigen.de"
-  }
+    },
+    {
+    "key": "telekom",
+    "type": "telecommunication",
+    "web": "telekom.de",
+    "name": "Telekom Deutschland GmbH ",
+    "street": "Landgrabenweg",
+    "houseNumber": "151",
+    "postalCode": "53227",
+    "place": "Bonn",
+    "country":"Germany",
+    "phoneNumber": "+49 228 181 0",
+    "email": "schnelle-hilfe@telekom.de"
+    }
 ]
