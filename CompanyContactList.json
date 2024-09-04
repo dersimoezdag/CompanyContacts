@@ -439,13 +439,39 @@
     "key": "telekom",
     "type": "telecommunication",
     "web": "telekom.de",
-    "name": "Telekom Deutschland GmbH ",
+    "name": "Telekom Deutschland GmbH",
     "street": "Landgrabenweg",
     "houseNumber": "151",
     "postalCode": "53227",
     "place": "Bonn",
     "country":"Germany",
-    "phoneNumber": "+49 228 181 0",
+    "phoneNumber": "+49 228 18 10",
     "email": "schnelle-hilfe@telekom.de"
+    },
+    {
+    "key": "dhl",
+    "type": "other",
+    "web": "dhl.de",
+    "name": "DHL Paket GmbH",
+    "street": "Sträßchensweg",
+    "houseNumber": "10",
+    "postalCode": "53113",
+    "place": "Bonn",
+    "country":"Germany",
+    "phoneNumber": "+49 228 18 20",
+    "email": "anfrage-paket@dhl.com"
+    },
+    {
+    "key": "depost",
+    "type": "other",
+    "web": "deutschepost.de",
+    "name": "Deutsche Post AG",
+    "street": "Charles-de-Gaulle-Straße",
+    "houseNumber": "10",
+    "postalCode": "53113",
+    "place": "Bonn",
+    "country":"Germany",
+    "phoneNumber": "+49 228 18 20",
+    "email": "impressum.brief@deutschepost.de"
     }
 ]
