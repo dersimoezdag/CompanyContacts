@@ -488,5 +488,17 @@
     "country": "Germany",
     "phoneNumber": "+49 211 54270",
     "email": "info@alltours.de"
+  },
+  {
+    "key": "xxxlutz",
+    "type": "shopping",   
+    "web": "xxxlutz.de",
+    "name": "BDSK Handels GmbH & Co. KG",
+    "street": "Mergentheimer Straße",
+    "houseNumber": "59",
+    "postalCode": "97084",
+    "place": "Würzburg",
+    "country": "Germany",
+    "email": "info@xxxlutz.de"
   }
 ]
