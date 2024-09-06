@@ -494,6 +494,9 @@
     "type": "shopping",   
     "web": "xxxlutz.de",
     "name": "BDSK Handels GmbH & Co. KG",
+    "altNames": [
+      "XXXLutz"
+    ],
     "street": "Mergentheimer Straße",
     "houseNumber": "59",
     "postalCode": "97084",
