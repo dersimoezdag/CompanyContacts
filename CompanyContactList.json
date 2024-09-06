@@ -473,5 +473,18 @@
     "country":"Germany",
     "phoneNumber": "+49 228 18 20",
     "email": "impressum.brief@deutschepost.de"
-    }
+    },
+    {
+    "key": "alltours",
+    "type": "travel-agency",
+    "web": "alltours.de",
+    "name": "alltours flugreisen GmbH",
+    "street": "Dreischeibenhaus",
+    "houseNumber": "1",
+    "postalCode": "40211",
+    "place": "Düsseldorf",
+    "country":"Germany",
+    "phoneNumber": "+49 211 54270",
+    "email": "info@alltours.de"
+  },
 ]
