@@ -434,8 +434,8 @@
     "country":"Germany",
     "faxNumber": "+49 30 81097004",
     "email": "impressum@kleinanzeigen.de"
-    },
-    {
+  },
+  {
     "key": "telekom",
     "type": "telecommunication",
     "web": "telekom.de",
@@ -447,8 +447,8 @@
     "country":"Germany",
     "phoneNumber": "+49 228 18 10",
     "email": "schnelle-hilfe@telekom.de"
-    },
-    {
+  },
+  {
     "key": "dhl",
     "type": "other",
     "web": "dhl.de",
@@ -460,8 +460,8 @@
     "country":"Germany",
     "phoneNumber": "+49 228 18 20",
     "email": "anfrage-paket@dhl.com"
-    },
-    {
+  },
+  {
     "key": "depost",
     "type": "other",
     "web": "deutschepost.de",
@@ -473,8 +473,8 @@
     "country":"Germany",
     "phoneNumber": "+49 228 18 20",
     "email": "impressum.brief@deutschepost.de"
-    },
-    {
+  },
+  {
     "key": "alltours",
     "type": "travel-agency",
     "web": "alltours.de",
