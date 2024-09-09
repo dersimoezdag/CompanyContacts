@@ -503,5 +503,18 @@
     "place": "Würzburg",
     "country": "Germany",
     "email": "info@xxxlutz.de"
+  },
+  {
+    "key": "riverty",
+    "type": "debt-collection",
+    "web": "riverty.de",
+    "name": "Riverty Services GmbH",
+    "street": "Gütersloher Straße",
+    "houseNumber": "123",
+    "postalCode": "33415",
+    "place": "Verl",
+    "country": "Germany",
+    "phoneNumber": "+49 7221 50 40 0",
+    "email": "info@riverty.com"
   }
 ]
