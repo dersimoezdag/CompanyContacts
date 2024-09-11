@@ -516,5 +516,17 @@
     "country": "Germany",
     "phoneNumber": "+49 7221 50 40 0",
     "email": "info@riverty.com"
+  },
+  {
+    "key": "medion",
+    "type": "shopping",   
+    "web": "medion.com",
+    "name": "MEDION AG",
+    "street": "Am Zehnthof",
+    "houseNumber": "77",
+    "postalCode": "45307",
+    "place": "Essen",
+    "country": "Germany",
+    "email": "unternehmen@medion.com"
   }
 ]
