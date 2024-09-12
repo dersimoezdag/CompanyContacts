@@ -554,4 +554,17 @@
     "country": "Germany",
     "email": "zentrale@vtours.de"
   },
+  {
+    "key": "condor",
+    "type": "travel-agency",
+    "web": "condor.com",
+    "name": "Condor Flugdienst GmbH",
+    "street": "An der Gehespitz",
+    "houseNumber": "50",
+    "postalCode": "63263",
+    "place": "Neu-Isenburg",
+    "country": "Germany",
+    "phoneNumber": "+49 6171 698 8933",
+    "email": "servicecenter.cfi@condor.com"
+  }
 ]
