@@ -528,5 +528,16 @@
     "place": "Essen",
     "country": "Germany",
     "email": "unternehmen@medion.com"
+  },
+  {
+    "key": "paketageasylox",
+    "type": "other",
+    "web": "paket.ag",
+    "name": "Paket.ag & Easylox GmbH",
+    "street": "Mühlweg",
+    "houseNumber": "3a",
+    "postalCode": "67105",
+    "place": "Schifferstadt",
+    "country": "Germany"
   }
 ]
