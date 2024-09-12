@@ -541,5 +541,17 @@
     "country": "Germany",
     "phoneNumber": "+49 6235 9159952",
     "email": "anfrage@paket.ag"
-  }
+  },
+  {
+    "key": "vtours",
+    "type": "travel-agency",
+    "web": "vtours.com",
+    "name": "vtours GmbH",
+    "street": "Weißenburger Straße",
+    "houseNumber": "30",
+    "postalCode": "63739",
+    "place": "Aschaffenburg",
+    "country": "Germany",
+    "email": "zentrale@vtours.de"
+  },
 ]
