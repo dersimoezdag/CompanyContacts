@@ -566,5 +566,18 @@
     "country": "Germany",
     "phoneNumber": "+49 6171 698 8933",
     "email": "servicecenter.cfi@condor.com"
+  },
+  {
+    "key": "wertgarantie",
+    "type": "insurance",
+    "web": "wertgarantie.com",
+    "name": "WERTGARANTIE SE",
+    "street": "Breite Straße",
+    "houseNumber": "8",
+    "postalCode": "30159",
+    "place": "Hannover",
+    "country": "Germany",
+    "phoneNumber": "+49 0511 71280123",
+    "email": "kunde@wertgarantie.com"
   }
 ]
