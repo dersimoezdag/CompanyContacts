@@ -592,5 +592,18 @@
     "country": "Germany",
     "phoneNumber": "+49 8 7195 38 62 00",
     "email": "kundenservice@eon.de"
+  },
+  {
+    "key": "ikea",
+    "type": "shopping",
+    "web": "ikea.com",
+    "name": "IKEA Deutschland GmbH & Co. KG",
+    "street": "Am Wandersmann",
+    "houseNumber": "2-4",
+    "postalCode": "65719",
+    "place": "Hofheim-Wallau",
+    "country": "Germany",
+    "phoneNumber": "+49 61 92 93 99999",
+    "email": "impressum.de@IKEA.com"
   }
 ]
