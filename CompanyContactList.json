@@ -579,5 +579,18 @@
     "country": "Germany",
     "phoneNumber": "+49 0511 71280123",
     "email": "kunde@wertgarantie.com"
+  },
+  {
+    "key": "eon",
+    "type": "other",
+    "web": "eon.de",
+    "name": "E.ON Energie Deutschland GmbH",
+    "street": "Arnulfstraße",
+    "houseNumber": "203",
+    "postalCode": "80634",
+    "place": "München",
+    "country": "Germany",
+    "phoneNumber": "+49 8 7195 38 62 00",
+    "email": "kundenservice@eon.de"
   }
 ]
