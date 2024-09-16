@@ -605,5 +605,18 @@
     "country": "Germany",
     "phoneNumber": "+49 61 92 93 99999",
     "email": "impressum.de@IKEA.com"
+  },
+  {
+    "key": "energieversum",
+    "type": "other",
+    "web": "energieversum.de ",
+    "name": "Energieversum GmbH & Co. KG",
+    "street": "Dompfaffenstraße",
+    "houseNumber": "54",
+    "postalCode": "33335",
+    "place": "Gütersloh",
+    "country": "Germany",
+    "phoneNumber": "+49 5241 504070",
+    "email": "rechtsabwicklung@energieversum.de"
   }
 ]
