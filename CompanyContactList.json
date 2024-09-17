@@ -618,5 +618,16 @@
     "country": "Germany",
     "phoneNumber": "+49 5241 504070",
     "email": "rechtsabwicklung@energieversum.de"
+  },
+  {
+    "key": "dglasfaser",
+    "type": "telecommunication",
+    "name": "Deutsche Glasfaser Holding GmbH",
+    "street": "Am Kuhm",
+    "houseNumber": "31",
+    "postalCode": "46325",
+    "place": "Borken",
+    "country": "Germany",
+    "email": "impressum@deutsche-glasfaser.de"
   }
 ]
