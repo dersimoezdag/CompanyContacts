@@ -654,5 +654,17 @@
     "country": "de",
     "phoneNumber": "+49 6571 99 99 222",
     "email": "info@deutsche-inkasso.de"
+  },
+  {
+    "key": "bunq",
+    "type": "bank",
+    "web": "bunq.com",
+    "name": "bunq B.V.",
+    "street": "Naritaweg",
+    "houseNumber": "131-133",
+    "postalCode": "1043",
+    "place": "Amsterdam",
+    "country":"nl",
+    "email": "support@bunq.com"
   }
 ]
