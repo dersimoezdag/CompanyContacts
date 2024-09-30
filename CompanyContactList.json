@@ -678,5 +678,17 @@
     "place": "Madrid",
     "country": "es",
     "email": "customerservice-de@contact.opodo.com"
+  },
+  {
+    "key": "eurowings",
+    "type": "airline",
+    "web": "eurowings.com",
+    "name": "Eurowings GmbH",
+    "street": "Waldstraße",
+    "houseNumber": "249",
+    "postalCode": "51147",
+    "place": "Köln",
+    "country": "de",
+    "email": "service@eurowings.com"
   }
 ]
