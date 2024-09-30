@@ -666,5 +666,17 @@
     "place": "Amsterdam",
     "country":"nl",
     "email": "support@bunq.com"
+  },
+  {
+    "key": "opodo",
+    "type": "travel-agency",
+    "web": "opodo.com",
+    "name": "Opodo Deutschland",
+    "street": "Calle de Manzanares",
+    "houseNumber": "4",
+    "postalCode": "28005",
+    "place": "Madrid",
+    "country": "es",
+    "email": "customerservice-de@contact.opodo.com"
   }
 ]
