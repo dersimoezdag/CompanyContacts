@@ -621,7 +621,7 @@
     "email": "rechtsabwicklung@energieversum.de"
   },
   {
-    "key": "dglasfaser",
+    "key": "dglasfaserholding",
     "type": "telecommunication",
     "name": "Deutsche Glasfaser Holding GmbH",
     "street": "Am Kuhm",
@@ -630,6 +630,17 @@
     "place": "Borken",
     "country": "de",
     "email": "impressum@deutsche-glasfaser.de"
+  },
+  {
+    "key": "dglasfaserwholesale",
+    "type": "telecommunication",
+    "name": "Deutsche Glasfaser Wholesale GmbH",
+    "street": "Am Kuhm",
+    "houseNumber": "31",
+    "postalCode": "46325",
+    "place": "Borken",
+    "country": "de",
+    "email": "info@deutsche-glasfaser.de"
   },
   {
     "key": "iseinkasso",
