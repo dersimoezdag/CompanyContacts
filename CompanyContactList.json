@@ -690,5 +690,21 @@
     "place": "Köln",
     "country": "de",
     "email": "service@eurowings.com"
+  },
+  {
+    "key": "telecolumbus",
+    "type": "telecommunication",
+    "name": "Tele Columbus AG",
+    "altNames": [
+      "PŸUR",
+      "PYUR"
+    ],
+    "street": "Kaiserin-Augusta-Allee",
+    "houseNumber": "108",
+    "postalCode": "10553",
+    "place": "Berlin",
+    "country": "de",
+    "phoneNumber": "+49 30 25 777 777",
+    "email": "kundenservice@pyur.com"
   }
 ]
