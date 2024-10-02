@@ -734,5 +734,17 @@
     "country": "de",
     "phoneNumber": "+49 30 374 449 338",
     "email": "onlineservice@hoeffner.de"
+  },
+  {
+    "key": "roller",
+    "type": "shopping",   
+    "web": "roller.de",
+    "name": "ROLLER GmbH & Co. KG",
+    "street": "Willy-Brandt-Allee",
+    "houseNumber": "72",
+    "postalCode": "45891",
+    "place": "Gelsenkirchen",
+    "country": "de",
+    "email": "info@roller.de"
   }
 ]
