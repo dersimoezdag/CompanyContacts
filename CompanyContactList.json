@@ -721,5 +721,18 @@
     "country": "de",
     "phoneNumber": "+49 40 52018 0",
     "email": "schaden@europcar.de"
+  },
+  {
+    "key": "hoeffneronline",
+    "type": "shopping",
+    "web": "hoeffner.de",
+    "name": "Höffner Online GmbH & Co. KG",
+    "street": "Am Rondell",
+    "houseNumber": "1",
+    "postalCode": "12529",
+    "place": "Schönefeld",
+    "country": "de",
+    "phoneNumber": "+49 30 374 449 338",
+    "email": "onlineservice@hoeffner.de"
   }
 ]
