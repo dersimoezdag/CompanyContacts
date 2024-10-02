@@ -706,5 +706,20 @@
     "country": "de",
     "phoneNumber": "+49 30 25 777 777",
     "email": "kundenservice@pyur.com"
+  },
+  {
+    "key": "europcar",
+    "type": "car-rental",
+    "name": "EMobG Services Germany GmbH",
+    "altNames": [
+      "Europcar"
+    ],
+    "street": "Anckelmannsplatz",
+    "houseNumber": "1",
+    "postalCode": "20537",
+    "place": "Hamburg",
+    "country": "de",
+    "phoneNumber": "+49 40 52018 0",
+    "email": "schaden@europcar.de"
   }
 ]
