@@ -736,6 +736,19 @@
     "email": "onlineservice@hoeffner.de"
   },
   {
+    "key": "hoeffner",
+    "type": "shopping",
+    "web": "hoeffner.de",
+    "name": "Höffner Möbelgesellschaft GmbH & Co. KG",
+    "street": "Peschelstraße",
+    "houseNumber": "39",
+    "postalCode": "01139",
+    "place": "Dresden",
+    "country": "de",
+    "phoneNumber": "+49 0351 8405 0",
+    "email": "onlineservice@hoeffner.de"
+  },
+  {
     "key": "roller",
     "type": "shopping",   
     "web": "roller.de",
