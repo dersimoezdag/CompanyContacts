@@ -759,5 +759,18 @@
     "place": "Gelsenkirchen",
     "country": "de",
     "email": "info@roller.de"
+  },
+  {
+    "key": "flypegasus",
+    "type": "airline",
+    "web": "flypgs.com",
+    "name": "Pegasus Hava Taşımacılığı Anonim Şirketi",
+    "street": "Schadowplatz",
+    "houseNumber": "16",
+    "place": "Düsseldorf ",
+    "postalCode": "40212",
+    "phoneNumber": "+49 211 863 95950",
+    "country": "tr",
+    "email": "info@flypgs.com"
   }
 ]
