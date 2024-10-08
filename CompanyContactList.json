@@ -798,5 +798,18 @@
     "country": "lu",
     "phoneNumber": "",
     "email": "impressum@paypal.com"
+  },
+  {
+    "key": "skreditpartner",
+    "type": "bank",
+    "web": "s-kreditpartner.de",
+    "name": "S-Kreditpartner GmbH",
+    "street": "Prinzregentenstraße",
+    "houseNumber": "25",
+    "postalCode": "10715",
+    "place": "Berlin",
+    "country": "de",
+    "phoneNumber": "+49 30 620 080 8000",
+    "email": "info@s-kreditpartner.de"
   }
 ]
