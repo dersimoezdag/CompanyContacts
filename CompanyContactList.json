@@ -772,5 +772,18 @@
     "phoneNumber": "+49 211 863 95950",
     "country": "tr",
     "email": "info@flypgs.com"
+  },
+  {
+    "key": "britishairways",
+    "type": "airline",
+    "web": "britishairways.com",
+    "name": "British Airways Plc",
+    "street": "The Squaire",
+    "houseNumber": "12",
+    "place": "Frankfurt ",
+    "postalCode": "60549",
+    "phoneNumber": "+49 421 5575 758",
+    "country": "de",
+    "email": "contactbade@email.ba.com"
   }
 ]
