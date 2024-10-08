@@ -785,5 +785,18 @@
     "phoneNumber": "+49 421 5575 758",
     "country": "de",
     "email": "contactbade@email.ba.com"
+  },
+  {
+    "key": "paypal",
+    "type": "bank",
+    "web": "paypal.com",
+    "name": "PayPal (Europe) S.à r.l. et Cie, S.C.A.",
+    "street": "Chausseestrasse",
+    "houseNumber": "22-24",
+    "postalCode": "2449",
+    "place": "Boulevard Royal",
+    "country": "lu",
+    "phoneNumber": "",
+    "email": "impressum@paypal.com"
   }
 ]
