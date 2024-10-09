@@ -811,5 +811,22 @@
     "country": "de",
     "phoneNumber": "+49 30 620 080 8000",
     "email": "info@s-kreditpartner.de"
+  },
+   {
+    "key": "ruv",
+    "type": "insurance",
+    "web": "ruv.de",
+    "name": "R+V Allgemeine Versicherung AG",
+     "altNames": [
+      "KRAVAG"
+    ],
+    "street": "Raiffeisenplatz",
+    "houseNumber": "1",
+    "postalCode": "65189",
+    "place": "Wiesbaden",
+    "country":"de",
+    "phoneNumber": "+49 611 533 0",
+    "faxNumber": "+49 611 533 4500",
+    "email": "ruv@ruv.de"
   }
 ]
