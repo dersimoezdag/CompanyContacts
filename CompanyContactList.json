@@ -828,5 +828,19 @@
     "phoneNumber": "+49 611 533 0",
     "faxNumber": "+49 611 533 4500",
     "email": "ruv@ruv.de"
+  },
+  {
+    "key": "expertecommerce",
+    "type": "shopping",
+    "altNames": [],
+    "web": "expert-commerce.de",
+    "name": "expert e-Commerce GmbH",
+    "street": "Bayernstraße",
+    "houseNumber": "4",
+    "postalCode": "30855",
+    "place": "Langenhagen",
+    "country": "de",
+    "phoneNumber": "+49 203 80481842",
+    "email": "kundenservice@expert-commerce.de"
   }
 ]
