@@ -856,5 +856,19 @@
     "country": "de",
     "phoneNumber": "+49 40 3603 3603",
     "email": "service@otto.de"
+  },
+  {
+    "key": "eos_did",
+    "type": "debt-collection",
+    "web": "eos-serviceportal.de",
+    "name": "EOS Deutscher Inkasso-Dienst GmbH",
+    "street": "Steindamm",
+    "houseNumber": "71",
+    "postalCode": "20099",
+    "place": "Hamburg",
+    "country": "de",
+    "phoneNumber": "+49 40 2850 0",
+    "faxNumber": "+49 40 2850 1400",
+    "email": "info@eos-did.com"
   }
 ]
