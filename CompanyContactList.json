@@ -842,5 +842,19 @@
     "country": "de",
     "phoneNumber": "+49 203 80481842",
     "email": "kundenservice@expert-commerce.de"
+  },
+  {
+    "key": "otto",
+    "type": "shopping",
+    "altNames": [],
+    "web": "otto.de",
+    "name": "Otto (GmbH & Co KG)",
+    "street": "Werner-Otto-Straße",
+    "houseNumber": "1-7",
+    "postalCode": "22179",
+    "place": "Hamburg",
+    "country": "de",
+    "phoneNumber": "+49 40 3603 3603",
+    "email": "service@otto.de"
   }
 ]
