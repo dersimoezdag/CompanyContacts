@@ -870,5 +870,17 @@
     "phoneNumber": "+49 40 2850 0",
     "faxNumber": "+49 40 2850 1400",
     "email": "info@eos-did.com"
+  },
+  {
+    "key": "airfrance",
+    "type": "airline",
+    "web": "airfrance.fr",
+    "name": "Air France S.A.",
+    "street": "De-Saint-Exupéry Straße",
+    "houseNumber": "10",
+    "postalCode": "60549",
+    "place": "Frankfurt am Main",
+    "country": "fr",
+    "email": "mail.information.germany@airfrance.fr"
   }
 ]
